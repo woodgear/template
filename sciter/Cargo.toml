@@ -1,0 +1,9 @@
+[package]
+name = "sciter-embed"
+version = "0.1.0"
+authors = ["saber.wu <saber.wu@trantect.com>"]
+edition = "2018"
+
+[dependencies]
+sciter-rs = "0.5.45"
+failure = "0.1.6"

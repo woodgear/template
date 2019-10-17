@@ -1,0 +1,17 @@
+{
+    "type":"collection",
+    "version":"0.0.1",
+    "tm": [
+        {
+            "name": "rust-sciter",
+            "tags": [
+                "rust",
+                "sciter",
+                "ui",
+                "desktop"
+            ],
+            "path": "./sciter",
+            "type": "project"
+        }
+    ]
+}
